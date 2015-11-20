@@ -5,7 +5,7 @@ Atomicity violation detection tool for C++ programs that use Intel TBB task para
 
             source build.sh
 
-2. To run all 36 test cases.
+2. To run all 36 test programs.
 
             cd av_tests
             python run_tests.py
