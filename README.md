@@ -14,8 +14,3 @@ Atomicity violation detection tool for C++ programs that use Intel TBB task para
 
             cd trace_tests
             python trace_generator.py
-
-3. To execute atomicity violation detection tool on benchmarks
-
-            cd benchmarks
-            python run_bmarks.py > output.txt
